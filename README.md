@@ -9,4 +9,8 @@
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 
+
+## Screenshot
+![DarkAlchemy](https://raw.githubusercontent.com/vaibdix/darkalchemy/main/output.png)
+
 **Enjoy!**
