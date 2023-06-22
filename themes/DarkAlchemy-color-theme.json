@@ -317,13 +317,13 @@
         "foreground": "#57c7ff"
       }
     },
-    {
-      "name": "C# type",
-      "scope": "source.cs storage.type",
-      "settings": {
-        "foreground": "#f3f99d"
-      }
-    },
+    // {
+    //   "name": "C# type",
+    //   "scope": "source.cs storage.type",
+    //   "settings": {
+    //     "foreground": "#f3f99d"
+    //   }
+    // },
     {
       "name": "C# return type",
       "scope": "source.cs meta.method.return-type",
