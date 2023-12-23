@@ -1,23 +1,41 @@
 {
   "name": "darkalchemy",
-  "displayName": "DarkAlchemy",
-  "description": "The ultimate collection of Dark themes for vscode",
+  "displayName": "Dark Alchemy Theme",
+  "description": "The ultimate collection of Dark themes for VS Code",
   "version": "0.0.1",
+  "publisher": "Dark Alchemy",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaibdix/darkalchemy"
+  },
+  "bugs": {
+    "url": "https://github.com/vaibdix/darkalchemy/issues"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "color theme",
+    "dark theme",
+    "dark alchemy",
+    "vs code theme"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "DarkAlchemy",
+        "label": "DarkAlchemy - Default",
         "uiTheme": "vs-dark",
         "path": "./themes/DarkAlchemy-color-theme.json"
       },
       {
-        "label": "DarkAlchemy - HalfTheme",
+        "label": "DarkAlchemy - Half-Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Half-theme.json"
       },
