@@ -1,17 +1,31 @@
-# darkalchemy README
+# Darkalchemy
 
-## Working with Markdown
+## WIP 
 
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+#### Testing this theme
 
-## For more information
+* `⌘+⇧+d` for testing theme before release.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+or
+
+* Add code to your settings.json.
+
+
+#### Screenshot
+<!-- ![DarkAlchemy](https://raw.githubusercontent.com/vaibdix/darkalchemy/main/output.png) -->
 
 
 
-## Screenshot
-![DarkAlchemy](https://raw.githubusercontent.com/vaibdix/darkalchemy/main/output.png)
+<table  style="width:100%">
+  <tr>
+    <td>
+    <img src='./output.png'/><br>
+    <h5>DarkAlchemy</h5>
+    </td>
+    <td><img src='./nightfox-arctic-ruled.png'/>
+    <h5>DarkAlchemy-Arctic-Ruled</h5></td>
+  </tr>
+ 
+</table>
 
 **Enjoy!**
