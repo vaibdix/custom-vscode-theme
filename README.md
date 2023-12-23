@@ -19,10 +19,10 @@ or
 <table  style="width:100%">
   <tr>
     <td>
-    <img src='./output.png'/><br>
+    <img src='./images/output.png'/><br>
     <h5>DarkAlchemy</h5>
     </td>
-    <td><img src='./nightfox-arctic-ruled.png'/>
+    <td><img src='./images/nightfox-arctic-ruled.png'/>
     <h5>DarkAlchemy-Arctic-Ruled</h5></td>
   </tr>
  
