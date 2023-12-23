@@ -1,7 +1,7 @@
 {
   "name": "darkalchemy",
   "displayName": "DarkAlchemy",
-  "description": "Dark theme for vscode",
+  "description": "The ultimate collection of Dark themes for vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
@@ -15,6 +15,36 @@
         "label": "DarkAlchemy",
         "uiTheme": "vs-dark",
         "path": "./themes/DarkAlchemy-color-theme.json"
+      },
+      {
+        "label": "DarkAlchemy - HalfTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Half-theme.json"
+      },
+      {
+        "label": "DarkAlchemy - Night-Dragon-Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night-Dragon-Darker.json"
+      },
+      {
+        "label": "DarkAlchemy - Night-Dragon-Darkest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night-Dragon-Darkest.json"
+      },
+      {
+        "label": "DarkAlchemy - Night-Dragon-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night-Dragon-light.json"
+      },
+      {
+        "label": "DarkAlchemy - NightFox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nightfox.json"
+      },
+      {
+        "label": "DarkAlchemy - NightFox-Artic-Ruled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nightfox-Theme.json"
       }
     ]
   }
