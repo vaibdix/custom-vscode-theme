@@ -2,7 +2,7 @@
   "name": "darkalchemy",
   "displayName": "Dark Alchemy Theme",
   "description": "The ultimate collection of Dark themes for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Dark Alchemy",
   "license": "MIT",
   "icon": "images/icon.png",
@@ -30,39 +30,34 @@
   "contributes": {
     "themes": [
       {
-        "label": "DarkAlchemy - Default",
+        "label": "DarkAlchemy-1-Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/DarkAlchemy-color-theme.json"
+        "path": "./themes/DarkAlchemy-Default.json"
       },
       {
-        "label": "DarkAlchemy - Half-Theme",
+        "label": "DarkAlchemy-2-Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/Half-theme.json"
+        "path": "./themes/DarkAlchemy-Black.json"
       },
       {
-        "label": "DarkAlchemy - Night-Dragon-Darker",
+        "label": "DarkAlchemy-3-Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night-Dragon-Darker.json"
+        "path": "./themes/DarkAlchemy-Blue.json"
       },
       {
-        "label": "DarkAlchemy - Night-Dragon-Darkest",
+        "label": "DarkAlchemy-4-Midnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night-Dragon-Darkest.json"
+        "path": "./themes/DarkAlchemy-Midnight.json"
       },
       {
-        "label": "DarkAlchemy - Night-Dragon-light",
+        "label": "DarkAlchemy-5-Arctic",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night-Dragon-light.json"
+        "path": "./themes/DarkAlchemy-Arctic.json"
       },
       {
-        "label": "DarkAlchemy - NightFox",
+        "label": "DarkAlchemy-6-Arctic-Ruled",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nightfox.json"
-      },
-      {
-        "label": "DarkAlchemy - NightFox-Artic-Ruled",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Nightfox-Theme.json"
+        "path": "./themes/DarkAlchemy-Arctic-Theme.json"
       }
     ]
   }
