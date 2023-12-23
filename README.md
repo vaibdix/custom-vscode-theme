@@ -5,13 +5,32 @@
 <table  style="width:100%">
   <tr>
     <td>
-    <img src='./images/darkalchemy-pitchblack.png'/><br>
-    <h5>DarkAlchemy-Pitchblack</h5>
+      <img src='./images/DA-Default.png'/><br>
+      <h5>DA-Default</h5>
     </td>
-    <td><img src='./images/darkalchemy-arctic-ruled.png'/>
-    <h5>DarkAlchemy-Arctic-Ruled</h5></td>
+    <td>
+      <img src='./images/DA-Blue.png'/>
+      <h5>DA-Blue</h5>
+    </td>
+    <td>
+      <img src='./images/DA-Midnight.png'/><br>
+      <h5>DA-Midnight</h5>
+    </td>
   </tr>
- 
+  <tr>
+    <td>
+      <img src='./images/DA-Black.png'/>
+      <h5>DA-Black</h5>
+    </td>
+    <td>
+      <img src='./images/DA-Arctic.png'/><br>
+      <h5>DA-Arctic</h5>
+    </td>
+    <td>
+      <img src='./images/DA-Arctic-Ruled.png'/>
+      <h5>DA-Arctic-Ruled</h5>
+    </td>
+  </tr>
 </table>
 
 ## Install
@@ -20,12 +39,11 @@
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstartedthemes#_selecting-the-color-theme).The GitHub themes aim to align with the themes available in [github.com's settings](https://github.com/settings/appearance):
     - `DarkAlchemy - Default`
-    - `DarkAlchemy - Half-Theme`
-    - `DarkAlchemy - Night-Dragon-Darker`
-    - `DarkAlchemy - Night-Dragon-Darkest` ✨ new ✨
-    - `DarkAlchemy - Night-Dragon-light`
-    - `DarkAlchemy - NightFox` ✨ new ✨
-    - `DarkAlchemy - NightFox-Artic-Ruled` ✨ new ✨
+    - `DarkAlchemy - Blue`
+    - `DarkAlchemy - Midnight`✨ new ✨
+    - `DarkAlchemy - Black` ✨ new ✨
+    - `DarkAlchemy - Arctic`
+    - `DarkAlchemy - Arctic-Ruled` ✨ new ✨
 
 ## Customize this theme
 

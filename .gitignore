@@ -1,3 +1,4 @@
 node_modules
 *.vsix
+.DS_Store
 sample-programs-25-lang-test/
